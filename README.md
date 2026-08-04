@@ -1,6 +1,4 @@
-# Awesome-Dark-Kitchen-Management
-
-# Similar Projects to Dark Kitchen Management Platforms
+# Awesome Dark Kitchen Management Platforms
 
 **Dark Kitchen Management Platforms** (also called cloud kitchen, ghost kitchen, or virtual brand platforms) help operators manage multi-brand delivery-only kitchens. They aggregate orders from multiple delivery apps (Uber Eats, DoorDash, Deliveroo, etc.), sync menus, route orders to the right station or brand, provide kitchen display systems (KDS), and streamline operations across virtual brands. Leading platforms include Otter, Deliverect, KitchenHub, Nextbite, Future Foods, CloudKitchens OS, Kitopi OS, POSist, UrbanPiper, and Local Kitchen Platform.
 
